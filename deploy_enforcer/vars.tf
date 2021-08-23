@@ -1,7 +1,5 @@
 variable "region" { }
 
-variable "cluster_name" {}
-
 variable "cns_api" {}
 
 variable "cns_namespace" {}

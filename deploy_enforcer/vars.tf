@@ -1,5 +1,3 @@
-variable "region" { }
-
 variable "cns_api" {}
 
 variable "cns_namespace" {}

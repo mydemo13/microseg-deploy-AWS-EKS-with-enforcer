@@ -1,5 +1,3 @@
-region = "<AWS Region>"
-
 cns_api = "<Microsegmentation API Endpoint for your tenant>"
 
 cns_namespace = "<Microsegmentation Name Space to deploy the Enforcer e.g. "/81234567890/production/cluster1">"
